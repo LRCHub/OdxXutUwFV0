@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SWIMGOOD",
+  "base_artist": "Kohjiya",
+  "createdAt": "2026-03-17T16:34:46.774723Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SWIMGOOD (feat. Lazzy & AURAL)",
+      "artist": "Kohjiya",
+      "has_synced": false,
+      "path": "select/pl_01_SWIMGOOD_(feat._Lazzy_&_AURAL)_Kohjiya.txt"
+    }
+  ]
+}
