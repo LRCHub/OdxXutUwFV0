@@ -1,0 +1,65 @@
+# Kohjiya – SWIMGOOD
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey girl 僕に似てる I know
+Baby girl calls me now 一緒に遊ぶ
+Hey girl 僕に似てる I know
+Call me now 今すぐに消えて無くなりそう
+Rockstarになりたくはないし
+Sucideする夢をみてるよ
+ネガティブにやられたら最期
+Hey girl もう逃げ道はないよ
+足りないものなんてない
+って思ってたけど手が届かない
+答えはすぐそこにある気がしてる
+だから今を生きる俺と友達
+We got up 抜け出してくParis, London
+好きにやってる日 We just go on
+俺と仲間達つくる音
+Hey girl 悲しいことは何もないね
+ひたすらにLove
+すれ違っていくあの日みたいに
+それでもTake up
+(Take up)
+気がつけばWake up
+(Wake up)
+探し出す正解
+(正解)
+Homieと目指すStay high
+(Stay high)
+溢れ出すTear
+Phoneからcall slow, slow
+足りないけどYouにはNo no no
+Phone call 着信に出よう
+寂しい夜ほどCold
+待てないCan I see you in the morning
+Make believe 今はせめて君と踊ってたいのに
+太陽が俺のHeartを痛めるから
+月と2人で君を奪いに行く
+過ぎた時間に後悔はない
+I know real, bitch looks away
+I know real, you know looks away
+目を背けてても何処かで見てる
+気にしてないフリ  それじゃダメ
+Baby girl, baby girl 何をしてるの？
+Stay hard, stay hard 今はまだ向こう
+Uh you know? Hey girl
+Hey girl 悲しいことは何もないね
+ひたすらにLove
+すれ違っていくあの日みたいに
+それでもTake up
+(Take up)
+気がつけばWake up
+(Wake up)
+探し出す正解
+(正解)
+Homieと目指すStay high
+(Stay high)
+溢れ出すTear
+Phoneからcall slow, slow
+足りないけどYouにはNo no no
+Phone call 着信に出よう
+寂しい夜ほどCold
+```
